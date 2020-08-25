@@ -1,0 +1,17 @@
+127.0.0.1 - - [28/Jul/2020:19:24:03 +0700] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [28/Jul/2020:19:24:10 +0700] "GET /webmvc/user/list HTTP/1.1" 200 6244
+0:0:0:0:0:0:0:1 - - [28/Jul/2020:19:24:10 +0700] "GET /webmvc/resources/js/bootstrap.min.js;jsessionid=BAE7745C4812FC9E794E7052EABA1C1C HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [28/Jul/2020:19:24:10 +0700] "GET /webmvc/resources/css/bootstrap.min.css;jsessionid=BAE7745C4812FC9E794E7052EABA1C1C HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [28/Jul/2020:19:24:10 +0700] "GET /webmvc/resources/js/jquery-1.11.1.min.js;jsessionid=BAE7745C4812FC9E794E7052EABA1C1C HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [28/Jul/2020:19:24:11 +0700] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [28/Jul/2020:19:24:19 +0700] "GET /webmvc/user/update;jsessionid=BAE7745C4812FC9E794E7052EABA1C1C?userId=11 HTTP/1.1" 200 1812
+0:0:0:0:0:0:0:1 - - [28/Jul/2020:19:24:19 +0700] "GET /webmvc/resources/js/jquery-1.11.1.min.js HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [28/Jul/2020:19:24:19 +0700] "GET /webmvc/resources/css/bootstrap.min.css HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [28/Jul/2020:19:24:19 +0700] "GET /webmvc/resources/js/bootstrap.min.js HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [28/Jul/2020:19:24:19 +0700] "GET /webmvc/resources/js/bootstrap.min.js HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [28/Jul/2020:19:24:25 +0700] "POST /webmvc/user/update?userId=11 HTTP/1.1" 405 750
+127.0.0.1 - - [28/Jul/2020:19:28:03 +0700] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [28/Jul/2020:19:28:08 +0700] "GET /webmvc/user/list HTTP/1.1" 200 5408
+0:0:0:0:0:0:0:1 - - [28/Jul/2020:19:28:09 +0700] "GET /webmvc/resources/css/bootstrap.min.css HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [28/Jul/2020:19:28:09 +0700] "GET /webmvc/resources/js/jquery-1.11.1.min.js HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [28/Jul/2020:19:28:09 +0700] "GET /webmvc/resources/js/bootstrap.min.js HTTP/1.1" 404 682

@@ -1,0 +1,12 @@
+1594126990096	Delete element
+1594130657674	Rename field 'fullame'
+1594131599811	Rename type 'Configuration'
+1594298841730	Rename type 'customer'
+1594298856695	Delete element
+1594304051777	Delete element
+1594304165471	Rename type 'CustomerImpl'
+1594304180390	Rename type 'CustomeServicerImpl'
+1594304242026	Rename package 'com.webmvc.impl'
+1594304261537	Rename package 'com.webmvc.customerDaoImpl'
+1594304710240	Rename resource 'customerlist.jsp'
+1594307177825	Copy file

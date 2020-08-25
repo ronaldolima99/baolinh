@@ -1,0 +1,2 @@
+127.0.0.1 - - [30/Jun/2020:17:12:35 +0700] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [30/Jun/2020:17:12:38 +0700] "GET /connect-to-db/WEB-INF/classes/com/connecttodb/ConnectMysqlExample.java HTTP/1.1" 404 682

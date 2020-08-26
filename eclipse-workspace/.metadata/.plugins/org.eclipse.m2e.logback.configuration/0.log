@@ -9187,3 +9187,4 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact mysql:mysql-c
 2020-08-26 19:13:09,542 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\MyPC\eclipse-workspace\connect-to-db\src\main\resources
 2020-08-26 19:13:09,545 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2020-08-26 19:13:09,545 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\MyPC\eclipse-workspace\connect-to-db\src\test\resources
+2020-08-26 19:26:06,708 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
